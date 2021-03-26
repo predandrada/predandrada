@@ -3,11 +3,11 @@
 
 
 ## Who am I?
-<b> Basic description: </b>
+<b><i>Basic description:</i></b>
 </br>
 Andrada Preda, 22, a software engineer eager to learn new technologies.
 
-<b> Actual description: </b>
+<b><i>Actual description:</i></b>
 </br>
 Andrada, 22, not your usual computer engineering student.
 </br>
