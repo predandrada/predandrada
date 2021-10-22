@@ -5,11 +5,11 @@
 ## Who am I?
 <b><i>Basic description:</i></b>
 </br>
-Andrada Preda, 22, a software engineer eager to learn new technologies.
+Andrada Preda, 23, a software engineer eager to learn new technologies.
 
 <b><i>Actual description:</i></b>
 </br>
-Andrada, 22, not your usual computer engineering student.
+Andrada, 23, not your usual computer engineering student.
 </br>
 Passionate about <b> space 🌌🚀</b>, <b> books 📚 </b> and <b> food 🍝 </b>.
 </br>
