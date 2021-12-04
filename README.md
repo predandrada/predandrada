@@ -1,4 +1,4 @@
-# Hi! Welcome to my playground ✨
+# Welcome to my shoebox ✨
 <i><b>"Fear is the mind-killer."</b> - Dune, Frank Herbert</i>
 
 
@@ -17,8 +17,7 @@ I love experimenting with technologies such as <img height="15" width="15" src="
     height="15" width="15" src="assets/python.svg"></div>, <img height="17" width="17" src="assets/java.svg"></div>,
 <img height="17" width="17" src="assets/linux.svg"></div>
 </br>
-Currently learning <img height="15" width="15" src="assets/javascript.svg"></div>, <img height="15" width="15"
-    src="assets/html5.svg"></div> & <img height="15" width="15" src="assets/css.svg"></div>
+Currently learning Earth Observation & React.js 😀
 
 ## Ping me 💬
 
