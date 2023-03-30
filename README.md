@@ -3,12 +3,7 @@
 
 
 ## Who am I?
-<b><i>Basic description:</i></b>
-</br>
-Andrada Preda, 24, a software engineer eager to learn new technologies.
 
-<b><i>Actual description:</i></b>
-</br>
 Andrada, 24, not your usual computer engineer.
 </br>
 Passionate about <b> space 🌌🚀</b>, <b> books 📚 </b> and <b> food 🍝 </b>.
