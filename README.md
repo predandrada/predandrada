@@ -4,8 +4,6 @@
 
 ## Who am I?
 
-Andrada, 24, not your usual computer engineer.
-</br>
 Passionate about <b> space 🌌🚀</b>, <b> books 📚 </b> and <b> food 🍝 </b>.
 </br>
 I love experimenting with technologies such as <img height="15" width="15" src="assets/flutterio-icon.svg"></div>, <img
