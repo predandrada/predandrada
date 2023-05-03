@@ -12,7 +12,6 @@ I love experimenting with technologies such as <img height="15" width="15" src="
     height="15" width="15" src="assets/python.svg"></div>, <img height="17" width="17" src="assets/java.svg"></div>,
 <img height="17" width="17" src="assets/linux.svg"></div>
 </br>
-Currently learning **Earth Observation** & **React.js** 😀
 
 ## Ping me 💬
 
