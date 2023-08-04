@@ -1,15 +1,8 @@
 # Welcome to my shoebox ✨
-<i><b>"Fear is the mind-killer."</b> - Dune, Frank Herbert</i>
 
+## whoami
 
-## Who am I?
-
-Passionate about <b> space 🌌🚀</b>, <b> books 📚 </b> and <b> food 🍝 </b>.
-</br>
-I love experimenting with technologies such as <img height="15" width="15" src="assets/flutterio-icon.svg"></div>, <img
-    height="15" width="15" src="assets/python.svg"></div>, <img height="17" width="17" src="assets/java.svg"></div>,
-<img height="17" width="17" src="assets/linux.svg"></div>
-</br>
+Andrada, 25, passionate about <b> space 🌌🚀</b>, <b> books 📚 </b> and <b> food 🍝 </b>.
 
 ## Ping me 💬
 
@@ -21,6 +14,6 @@ I love experimenting with technologies such as <img height="15" width="15" src="
     <a href="mailto: predandrada.elena@gmail.com"> <img height="30" width="30" src="assets/email.svg"></a>
 </div>
 
-## More on my experience
-👉 <a href="https://drive.google.com/file/d/1MOi-fFpWt91iWFYeYFVUwDX6SspR51NI/view?usp=sharing">my resume</a>
+## cat /etc/passwd aka my resume
+👉 <a href="https://drive.google.com/file/d/1fzGD1bzwgbZy6FT1je63EgTDi7P6bgLx/view?usp=share_link">my resume</a>
 </br>
