@@ -14,6 +14,6 @@ Andrada, 25, passionate about <b> space 🌌🚀</b>, <b> books 📚 </b> and <b
     <a href="mailto: predandrada.elena@gmail.com"> <img height="30" width="30" src="assets/email.svg"></a>
 </div>
 
-## cat /etc/passwd aka my resume
-👉 <a href="https://drive.google.com/file/d/1fzGD1bzwgbZy6FT1je63EgTDi7P6bgLx/view?usp=share_link">my resume</a>
+## My experience
+<a href="https://drive.google.com/file/d/1fzGD1bzwgbZy6FT1je63EgTDi7P6bgLx/view?usp=share_link">cat /etc/passwd > resume.txt </a>
 </br>
