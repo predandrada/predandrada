@@ -11,6 +11,7 @@ Andrada, 25, passionate about <b> space 🌌🚀</b>, <b> books 📚 </b> and <b
     <a href="https://twitter.com/predandrada"><img height="30" width="30" src="assets/twitter.svg"></a>
     <a href="https://www.goodreads.com/predandrada"><img height="30" width="30" src="assets/goodreads.svg"></a>
     <a href="mailto: predandrada.elena@gmail.com"> <img height="30" width="30" src="assets/email.svg"></a>
+    <a href="https://open.spotify.com/user/22iixcsxsrmvh5zq76d3b5amq?si=d23f93d99db843d3"><img height="30" width="30" src="assets/Spotify_logo_without_text.svg"></a>
 </div>
 
 ## My experience
